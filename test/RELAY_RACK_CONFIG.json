@@ -1,0 +1,898 @@
+{
+    "SMPN": {
+        "rack_1": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J",
+                "K"
+            ],
+            "map": {
+                "1_F": "S1HR",
+                "2_F": [
+                    "S1HHR",
+                    "SPARE"
+                ],
+                "3_F": "S1DR",
+                "4_F": "S1AUHR",
+                "5_F": "C1HR",
+                "6_F": "S1AMHR",
+                "7_F": "S39HR",
+                "8_F": [
+                    "S39HHR",
+                    "S41HHR"
+                ],
+                "9_F": "S41HR",
+                "10_F": "S41DR",
+                "11_F": [
+                    "S41AMHR",
+                    "S97HHR"
+                ],
+                "12_F": "S97HR",
+                "13_F": "S97DR",
+                "14_F": "S97AMHR",
+                "15_F": "S99HR",
+                "16_F": [
+                    "S1UECZR",
+                    "S99HHR"
+                ],
+                "17_F": "S99DR",
+                "18_F": "S99AMHR",
+                "1_G": "SH123GR",
+                "2_G": "SH124GR",
+                "3_G": "SH125GR",
+                "4_G": "SH126GR",
+                "5_G": "SH131GR",
+                "6_G": [
+                    "SH139GR",
+                    "SH141GR"
+                ],
+                "7_G": "SH140GR",
+                "8_G": "SH197GR",
+                "16_G": "FCOR",
+                "17_G": "UP_FCOR",
+                "18_G": "UP_FCOR1",
+                "1_H": "S1RECR",
+                "2_H": "S1HECR",
+                "3_H": "S1HHECR",
+                "4_H": "S1DECR",
+                "5_H": "S1UECR",
+                "6_H": "C1HECR",
+                "7_H": "S1AMHECR",
+                "8_H": "S39RECR",
+                "9_H": "S39HECR",
+                "10_H": "S39HHECR",
+                "11_H": "S41RECR",
+                "12_H": "S41HECR",
+                "13_H": "S41HHECR",
+                "14_H": "S41DECR",
+                "15_H": "S41AMHECR",
+                "16_H": "S97RECR",
+                "17_H": "S97HECR",
+                "18_H": "S97HHECR",
+                "1_J": "S97DECR",
+                "2_J": "S97AMHECR",
+                "3_J": "S99RECR",
+                "4_J": "S99HECR",
+                "5_J": "S99HHECR",
+                "6_J": "S99DECR",
+                "7_J": "S99AMHECR",
+                "8_J": "SH123_ONECR",
+                "9_J": "SH123_OFFECR",
+                "10_J": "SH124_ONECR",
+                "11_J": "SH124_OFFECR",
+                "12_J": "SH125_ONECR",
+                "13_J": "SH125_OFFECR",
+                "14_J": "SH126_ONECR",
+                "15_J": "SH126_OFFECR",
+                "16_J": "SH131_ONECR",
+                "17_J": "SH131_OFFECR",
+                "18_J": "SH139_OFFECR",
+                "1_K": "SH140_ONECR",
+                "2_K": "SH140_OFFECR",
+                "3_K": "SH141_OFFECR",
+                "4_K": "SH197_OFFECR",
+                "5_K": "S1DR1",
+                "6_K": "S97DR1",
+                "7_K": "S99DR1",
+                "8_K": "S1DECPR",
+                "9_K": [
+                    "S41DECPR",
+                    "S41DR1"
+                ],
+                "10_K": "S97DECPR",
+                "11_K": "S99DECPR",
+                "12_K": [
+                    "SH123GR1",
+                    "SH124GR1"
+                ],
+                "13_K": [
+                    "SH125GR1",
+                    "SH126GR1"
+                ],
+                "14_K": [
+                    "S1HR1",
+                    "S97HR1"
+                ],
+                "15_K": [
+                    "S99HR1",
+                    "UP_FCOR2"
+                ]
+            }
+        },
+        "rack_2": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J",
+                "K"
+            ],
+            "map": {
+                "1_F": "CH3YR",
+                "2_F": "CH5YR",
+                "3_F": "CH9YR",
+                "4_F": [
+                    "CH47YR",
+                    "CH49YR"
+                ],
+                "5_F": "203NWR",
+                "6_F": "203RWR",
+                "7_F": "203WCR",
+                "8_F": "205NWR",
+                "9_F": "205RWR",
+                "10_F": "205WCR",
+                "11_F": "207NWR",
+                "12_F": "207RWR",
+                "13_F": "207WCR",
+                "14_F": "209NWR",
+                "15_F": "209RWR",
+                "16_F": "209WCR",
+                "17_F": "211NWR",
+                "18_F": "211RWR",
+                "1_G": "211WCR",
+                "2_G": "247NWR",
+                "3_G": "247RWR",
+                "4_G": "247WCR",
+                "5_G": "249NWR",
+                "6_G": "249RWR",
+                "7_G": "249WCR",
+                "1_H": "203ANWKR_IN",
+                "2_H": "203BNWKR_IN",
+                "3_H": "203ARWKR_IN",
+                "4_H": "203BRWKR_IN",
+                "5_H": "205NWKR_IN",
+                "6_H": "205RWKR_IN",
+                "7_H": "207ANWKR_IN",
+                "8_H": "207BNWKR_IN",
+                "9_H": "207ARWKR_IN",
+                "10_H": "207BRWKR_IN",
+                "11_H": "209NWKR_IN",
+                "12_H": "209RWKR_IN",
+                "13_H": "211NWKR_IN",
+                "14_H": "211RWKR_IN",
+                "15_H": [
+                    "247ANWKR_IN",
+                    "247BNWKR_IN"
+                ],
+                "16_H": [
+                    "247ARWKR_IN",
+                    "247BRWKR_IN"
+                ],
+                "17_H": [
+                    "249ANWKR_IN",
+                    "249BNWKR_IN"
+                ],
+                "18_H": [
+                    "249ARWKR_IN",
+                    "249BRWKR_IN"
+                ],
+                "1_J": "C1XT_LVR",
+                "2_J": "1XT_LVR",
+                "3_J": "A99XT_LVR",
+                "4_J": "99XT_LVR",
+                "5_J": [
+                    "01XT_LVR",
+                    "02AXT_LVR"
+                ],
+                "6_J": [
+                    "02BXT_LVR",
+                    "247XT_LVR"
+                ],
+                "7_J": "202BXT_LVR",
+                "8_J": "203AXT_LVR",
+                "9_J": "203BXT_LVR",
+                "10_J": "207AXT_LVR",
+                "11_J": "207BXT_LVR",
+                "12_J": [
+                    "249AXT_LVR",
+                    "249BXT_LVR"
+                ],
+                "13_J": "298AXT_LVR",
+                "14_J": [
+                    "UP_BAGN_LVR",
+                    "SPARE"
+                ],
+                "15_J": "CH3NPR",
+                "16_J": "CH5NPR",
+                "17_J": "CH9NPR",
+                "18_J": [
+                    "CH47NPR",
+                    "CH49NPR"
+                ],
+                "1_K": "ECHYR",
+                "2_K": "ECHYR1",
+                "3_K": "ECHYR2"
+            }
+        },
+        "rack_3": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J",
+                "K"
+            ],
+            "map": {
+                "1_F": "S2HR",
+                "2_F": [
+                    "S2HHR",
+                    "SPARE"
+                ],
+                "3_F": "S2DR",
+                "4_F": "S2AMHR",
+                "5_F": "S4HR",
+                "6_F": [
+                    "S4HHR",
+                    "S42HHR"
+                ],
+                "7_F": "S4DR",
+                "8_F": "S4AMHR",
+                "9_F": "S42HR",
+                "10_F": "S42DR",
+                "11_F": [
+                    "S42AMHR",
+                    "S44HHR"
+                ],
+                "12_F": "S44HR",
+                "13_F": "S98HR",
+                "14_F": [
+                    "S98HHR",
+                    "SPARE"
+                ],
+                "15_F": "S98DR",
+                "16_F": "S98AUHR",
+                "17_F": "C98HR",
+                "18_F": "S98AMHR",
+                "1_G": "SH104GR",
+                "2_G": [
+                    "SH142GR",
+                    "SH144GR"
+                ],
+                "3_G": "SH143GR",
+                "4_G": "SH160GR",
+                "5_G": "SH193GR",
+                "6_G": "SH196GR",
+                "17_G": "DN_FCOR",
+                "18_G": "DN_FCOR1",
+                "1_H": "S2RECR",
+                "2_H": "S2HECR",
+                "3_H": "S2HHECR",
+                "4_H": "S2DECR",
+                "5_H": "S2AMHECR",
+                "6_H": "S4RECR",
+                "7_H": "S4HECR",
+                "8_H": "S4HHECR",
+                "9_H": "S4DECR",
+                "10_H": "S4AMHECR",
+                "11_H": "S42RECR",
+                "12_H": "S42HECR",
+                "13_H": "S42HHECR",
+                "14_H": "S42DECR",
+                "15_H": "S42AMHECR",
+                "16_H": "S44RECR",
+                "17_H": "S44HECR",
+                "18_H": "S44HHECR",
+                "1_J": "S98RECR",
+                "2_J": "S98HECR",
+                "3_J": "S98HHECR",
+                "4_J": "S98DECR",
+                "5_J": "S98UECR",
+                "6_J": "C98HECR",
+                "7_J": "S98AMHECR",
+                "8_J": "SH104_OFFECR",
+                "9_J": "SH142_OFFECR",
+                "10_J": "SH143_ONECR",
+                "11_J": "SH143_OFFECR",
+                "12_J": "SH144_OFFECR",
+                "13_J": "SH160_ONECR",
+                "14_J": "SH160_OFFECR",
+                "15_J": "SH193_ONECR",
+                "16_J": "SH193_OFFECR",
+                "17_J": "SH196_ONECR",
+                "18_J": "SH196_OFFECR",
+                "1_K": "CH2NPR",
+                "2_K": [
+                    "CH42NPR",
+                    "CH44NPR"
+                ],
+                "3_K": "CH94NPR",
+                "4_K": "CH96NPR",
+                "5_K": "CH98NPR",
+                "6_K": "S2DR1",
+                "7_K": "S4DR1",
+                "8_K": "S98DR1",
+                "9_K": "S2DECPR",
+                "10_K": "S4DECPR",
+                "11_K": [
+                    "S42DECPR",
+                    "SH143GR1"
+                ],
+                "12_K": "S98DECPR",
+                "13_K": [
+                    "SH193GR1",
+                    "SH196GR1"
+                ],
+                "14_K": [
+                    "DN_FCOR2",
+                    "S2HR1"
+                ],
+                "15_K": [
+                    "S4HR1",
+                    "S42DR1"
+                ],
+                "16_K": [
+                    "S98UECZR",
+                    "S98HR1"
+                ]
+            }
+        },
+        "rack_4": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J"
+            ],
+            "map": {
+                "1_F": "CH2YR",
+                "2_F": [
+                    "CH42YR",
+                    "CH44YR"
+                ],
+                "3_F": "CH94YR",
+                "4_F": "CH96YR",
+                "5_F": "CH98YR",
+                "6_F": "202NWR",
+                "7_F": "202RWR",
+                "8_F": "202WCR",
+                "9_F": "242NWR",
+                "10_F": "242RWR",
+                "11_F": "242WCR",
+                "12_F": "244NWR",
+                "13_F": "244RWR",
+                "14_F": "244WCR",
+                "15_F": "294NWR",
+                "16_F": "294RWR",
+                "17_F": "294WCR",
+                "18_F": "296NWR",
+                "1_G": "296RWR",
+                "2_G": "296WCR",
+                "3_G": "298NWR",
+                "4_G": "298RWR",
+                "5_G": "298WCR",
+                "1_H": "202ANWKR_IN",
+                "2_H": "202BNWKR_IN",
+                "3_H": "202ARWKR_IN",
+                "4_H": "202BRWKR_IN",
+                "5_H": [
+                    "242ANWKR_IN",
+                    "242BNWKR_IN"
+                ],
+                "6_H": [
+                    "242ARWKR_IN",
+                    "242BRWKR_IN"
+                ],
+                "7_H": [
+                    "244ANWKR_IN",
+                    "244BNWKR_IN"
+                ],
+                "8_H": [
+                    "244ARWKR_IN",
+                    "244BRWKR_IN"
+                ],
+                "9_H": "294NWKR_IN",
+                "10_H": "294RWKR_IN",
+                "11_H": "296ANWKR_IN",
+                "12_H": "296BNWKR_IN",
+                "13_H": "296ARWKR_IN",
+                "14_H": "296BRWKR_IN",
+                "15_H": "298ANWKR_IN",
+                "16_H": "298BNWKR_IN",
+                "17_H": "298ARWKR_IN",
+                "18_H": "298BRWKR_IN",
+                "1_J": "A2XT_LVR",
+                "2_J": "2XT_LVR",
+                "3_J": "C98XT_LVR",
+                "4_J": "98XT_LVR",
+                "5_J": [
+                    "03AXT_LVR",
+                    "03BXT_LVR"
+                ],
+                "6_J": [
+                    "04XT_LVR",
+                    "242AXT_LVR"
+                ],
+                "7_J": "202AXT_LVR",
+                "8_J": [
+                    "242BXT_LVR",
+                    "244XT_LVR"
+                ],
+                "9_J": "296AXT_LVR",
+                "10_J": "296BXT_LVR",
+                "11_J": "298BXT_LVR",
+                "12_J": [
+                    "DN_PMPN_LVR",
+                    "SPARE"
+                ],
+                "13_J": "ECHYR3",
+                "14_J": "ECHYR4",
+                "15_J": "ECHYR5"
+            }
+        }
+    },
+    "ALH-22": {
+        "rack_1": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J",
+                "K"
+            ],
+            "map": {
+                "1_F": "A2419HR",
+                "2_F": "A2419HHR",
+                "3_F": "A2419DR",
+                "4_F": "A2421HR",
+                "5_F": [
+                    "A2421HHR",
+                    "SPARE"
+                ],
+                "6_F": "A2421DR",
+                "7_F": "A2423HR",
+                "8_F": "A2423HHR",
+                "9_F": "A2423DR",
+                "11_F": "ALH022_UPFCOR",
+                "12_F": "ALH022_UPFCOR1",
+                "1_G": "A2402HR",
+                "2_G": "A2402HHR",
+                "3_G": "A2402DR",
+                "4_G": "A2404HR",
+                "5_G": [
+                    "A2404HHR",
+                    "SPARE"
+                ],
+                "6_G": "A2404DR",
+                "7_G": "A2406HR",
+                "8_G": "A2406HHR",
+                "9_G": "A2406DR",
+                "10_G": [
+                    "S98UECPZR",
+                    "SPARE"
+                ],
+                "11_G": "ALH022_DNFCOR",
+                "12_G": "ALH022_DNFCOR1",
+                "1_H": "A2419DR1",
+                "2_H": "A2423DR1",
+                "3_H": "A2413DECPR",
+                "4_H": "A2423DECPR",
+                "5_H": [
+                    "A2421DECPR",
+                    "A2404DECPR"
+                ],
+                "6_H": "A2402DR1",
+                "7_H": "A2406DR1",
+                "8_H": "A2402DECPR",
+                "9_H": "A2406DECPR",
+                "1_J": "A2419RECR",
+                "2_J": "A2419HECR",
+                "3_J": "A2419HHECR",
+                "4_J": "A2419DECR",
+                "5_J": "A2421RECR",
+                "6_J": "A2421HECR",
+                "7_J": "A2421HHECR",
+                "8_J": "A2421DECR",
+                "9_J": "A2423RECR",
+                "10_J": "A2423HECR",
+                "11_J": "A2423HHECR",
+                "12_J": "A2423DECR",
+                "1_K": "A2402RECR",
+                "2_K": "A2402HECR",
+                "3_K": "A2402HHECR",
+                "4_K": "A2402DECR",
+                "5_K": "A2404RECR",
+                "6_K": "A2404HECR",
+                "7_K": "A2404HHECR",
+                "8_K": "A2424DECR",
+                "9_K": "A2406RECR",
+                "10_K": "A2406HECR",
+                "11_K": "A2406HHECR",
+                "12_K": "A2406DECR"
+            }
+        }
+    },
+    "ALH-20": {
+        "rack_1": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J",
+                "K"
+            ],
+            "map": {
+                "1_F": "A2307HR",
+                "2_F": "A2307HHR",
+                "3_F": "A2307DR",
+                "4_F": "A2309HR",
+                "5_F": [
+                    "A2309HHR",
+                    "SPARE"
+                ],
+                "6_F": "A2309DR",
+                "7_F": "A2311HR",
+                "8_F": "A2311HHR",
+                "9_F": "A2311DR",
+                "11_F": "ALH020_UPFCOR",
+                "12_F": "ALH020_UPFCOR1",
+                "1_G": "A2322HR",
+                "2_G": "A2322HHR",
+                "3_G": "A2322DR",
+                "4_G": "A2324HR",
+                "5_G": "A2324HHR",
+                "6_G": [
+                    "A2324DR",
+                    "SPARE"
+                ],
+                "7_G": "A2326HR",
+                "8_G": "A2326HHR",
+                "9_G": "A2326DR",
+                "11_G": "ALH020_DNFCOR",
+                "12_G": "ALH020_DNFCOR1",
+                "1_H": "A2307DR1",
+                "2_H": "A2311DR1",
+                "3_H": "A2307DECPR",
+                "4_H": "A2311DECPR",
+                "5_H": [
+                    "A2309DECPR",
+                    "SPARE"
+                ],
+                "6_H": "A2322DR1",
+                "7_H": "A2324DR1",
+                "8_H": "A2326DR1",
+                "9_H": "A2322DECPR",
+                "10_H": "A2324DECPR",
+                "11_H": "A2326DECPR",
+                "1_J": "A2307RECR",
+                "2_J": "A2307HECR",
+                "3_J": "A2307HHECR",
+                "4_J": "A2307DECR",
+                "5_J": "A2309RECR",
+                "6_J": "A2309HECR",
+                "7_J": "A2309HHECR",
+                "8_J": "A2309DECR",
+                "9_J": "A2311RECR",
+                "10_J": "A2311HECR",
+                "11_J": "A2311HHECR",
+                "12_J": "A2311DECR",
+                "1_K": "A2322RECR",
+                "2_K": "A2322HECR",
+                "3_K": "A2322HHECR",
+                "4_K": "A2322DECR",
+                "5_K": "A2324RECR",
+                "6_K": "A2324HECR",
+                "7_K": "A2324HHECR",
+                "8_K": "A2324DECR",
+                "9_K": "A2326RECR",
+                "10_K": "A2326HECR",
+                "11_K": "A2326HHECR",
+                "12_K": "A2326DECR"
+            }
+        }
+    },
+    "ALH-21": {
+        "rack_1": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J",
+                "K"
+            ],
+            "map": {
+                "1_F": "A2301HR",
+                "2_F": "A2301HHR",
+                "3_F": "A2301DR",
+                "4_F": "A2303HR",
+                "5_F": "A2303HHR",
+                "6_F": "A2303DR",
+                "7_F": "A2305HR",
+                "8_F": "A2305HHR",
+                "9_F": "A2305DR",
+                "10_F": [
+                    "S1UECPZR",
+                    "SPARE"
+                ],
+                "11_F": "ALH021_UPFCOR",
+                "12_F": "ALH021_UPFCOR1",
+                "1_G": "A2328HR",
+                "2_G": "A2328HHR",
+                "3_G": "A2328DR",
+                "4_G": "A2330HR",
+                "5_G": [
+                    "A2330HHR",
+                    "SPARE"
+                ],
+                "6_G": "A2330DR",
+                "7_G": "A2332HR",
+                "8_G": "A2332HHR",
+                "9_G": "A2332DR",
+                "11_G": "ALH021_DNFCOR",
+                "12_G": "ALH021_DNFCOR1",
+                "1_H": "A2301DR1",
+                "2_H": "A2303DR1",
+                "3_H": "A2305DR1",
+                "4_H": "A2301DECPR",
+                "5_H": "A2303DECPR",
+                "6_H": "A2305DECPR",
+                "7_H": "A2328DR1",
+                "8_H": "A2332DR1",
+                "9_H": "A2328DECPR",
+                "10_H": [
+                    "A2330DECPR",
+                    "SPARE"
+                ],
+                "11_H": "A2332DECPR",
+                "1_J": "A2301RECR",
+                "2_J": "A2301HECR",
+                "3_J": "A2301HHECR",
+                "4_J": "A2301DECR",
+                "5_J": "A2303RECR",
+                "6_J": "A2303HECR",
+                "7_J": "A2303HHECR",
+                "8_J": "A2303DECR",
+                "9_J": "A2305RECR",
+                "10_J": "A2305HECR",
+                "11_J": "A2305HHECR",
+                "12_J": "A2305DECR",
+                "1_K": "A2328RECR",
+                "2_K": "A2328HECR",
+                "3_K": "A2328HHECR",
+                "4_K": "A2328DECR",
+                "5_K": "A2330RECR",
+                "6_K": "A2330HECR",
+                "7_K": "A2330HHECR",
+                "8_K": "A2330DECR",
+                "9_K": "A2332RECR",
+                "10_K": "A2332HECR",
+                "11_K": "A2332HHECR",
+                "12_K": "A2332DECR"
+            }
+        }
+    },
+    "ALH-23": {
+        "rack_1": {
+            "cols": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "rows": [
+                "F",
+                "G",
+                "H",
+                "J",
+                "K"
+            ],
+            "map": {
+                "1_F": "A2413HR",
+                "2_F": "A2413HHR",
+                "3_F": "A2413DR",
+                "4_F": "A2415HR",
+                "5_F": [
+                    "A2415HHR",
+                    "SPARE"
+                ],
+                "6_F": "A2415DR",
+                "7_F": "A2417HR",
+                "8_F": "A2417HHR",
+                "9_F": "A2417DR",
+                "11_F": "ALH023_UPFCOR",
+                "12_F": "ALH023_UPFCOR1",
+                "1_G": "A2408HR",
+                "2_G": "A2408HHR",
+                "3_G": "A2408DR",
+                "4_G": "A2410HR",
+                "5_G": [
+                    "A2410HHR",
+                    "SPARE"
+                ],
+                "6_G": "A2410DR",
+                "7_G": "A2412HR",
+                "8_G": "A2412HHR",
+                "9_G": "A2412DR",
+                "11_G": "ALH023_DNFCOR",
+                "12_G": "ALH023_DNFCOR1",
+                "1_H": "A2413DR1",
+                "2_H": "A2417DR1",
+                "3_H": "A2413DECPR",
+                "4_H": "A2417DECPR",
+                "5_H": [
+                    "A2415DECPR",
+                    "A2410DECPR"
+                ],
+                "6_H": "A2408DR1",
+                "7_H": "A2412DR1",
+                "8_H": "A2408DECPR",
+                "9_H": "A2412DECPR",
+                "1_J": "A2413RECR",
+                "2_J": "A2413HECR",
+                "3_J": "A2413HHECR",
+                "4_J": "A2413DECR",
+                "5_J": "A2415RECR",
+                "6_J": "A2415HECR",
+                "7_J": "A2415HHECR",
+                "8_J": "A2415DECR",
+                "9_J": "A2417RECR",
+                "10_J": "A2417HECR",
+                "11_J": "A2417HHECR",
+                "12_J": "A2417DECR",
+                "1_K": "A2408RECR",
+                "2_K": "A2408HECR",
+                "3_K": "A2408HHECR",
+                "4_K": "A2408DECR",
+                "5_K": "A2410RECR",
+                "6_K": "A2410HECR",
+                "7_K": "A2410HHECR",
+                "8_K": "A2410DECR",
+                "9_K": "A2412RECR",
+                "10_K": "A2412HECR",
+                "11_K": "A2412HHECR",
+                "12_K": "A2412DECR"
+            }
+        }
+    }
+}

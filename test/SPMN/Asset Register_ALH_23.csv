@@ -1,0 +1,210 @@
+#,Organisation,Division,Station,Location,Asset Category,Asset Class,Asset class description in EAM,Asset Name ID,Asset name Description,Parent,Asset  Name,Asset/ Subasset/ Component,Sub Assembly1,Sub Assembly2,Material Code,Cross Relationship,Specification/Model No.,OEM Part Number,Make,Quantity,Relay Position,REMARKS,,SAP Code,Mat Desc
+1,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Relay Rack,32-Relay Rack,A0233200001,Relay Rack-1,,Relay Rack-1,Asset,,,,,6-ER-TYP-IL-0001-0,,Jyoti Controls,1,,,,56160253,Relay Rack
+15,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700002,R1F1-A2413HR,A0233200001,,Sub-Asset,A2413HR,,,4212010001,(BRS:930) QN1-12F/4B,,Crompton ,1,R1F1,,,56160011,QN1 Relay (12F-4B)
+16,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700003,R1F2-A2413HHR,A0233200001,,Sub-Asset,A2413HHR,,,4212010001,(BRS:930) QN1-8F/8B,,Crompton ,1,R1F2,,,56160028,QN1 Relay (8F-8B)
+17,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700004,R1F3-A2413DR,A0233200001,,Sub-Asset,A2413DR,,,4212010001,(BRS:930) QN1-12F/4B,,Crompton ,1,R1F3,,,56160011,QN1 Relay (12F-4B)
+18,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700005,R1F4-A2415HR,A0233200001,,Sub-Asset,A2415HR,,,4212030001,(BRS:930) QN1-12F/4B,,Crompton ,1,R1F4,,,56160011,QN1 Relay (12F-4B)
+19,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700006,R1F5-A2415HHR,A0233200001,,Sub-Asset,A2415HHR,,,4212030001,(BRS:960) QNN1-2*6F/2B,,Crompton ,1,R1F5,,,56160043,QNN1 Relay (2*6F-2B)
+20,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700007,R1F6-A2415DR,A0233200001,,Sub-Asset,A2415DR,,,4212030001,(BRS:930) QN1-8F/8B,,Crompton ,1,R1F6,,,56160028,QN1 Relay (8F-8B)
+21,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700008,R1F7-A2417HR,A0233200001,,Sub-Asset,A2417HR,,,4212030001,(BRS:930) QN1-12F/4B,,Crompton ,1,R1F7,,,56160011,QN1 Relay (12F-4B)
+22,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700009,R1F8-A2417HHR,A0233200001,,Sub-Asset,A2417HHR,,,4212030001,(BRS:930) QN1-8F/8B,,Crompton ,1,R1F8,,,56160028,QN1 Relay (8F-8B)
+23,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700010,R1F9-A2417DR,A0233200001,,Sub-Asset,A2417DR,,,4212030001,(BRS:930) QN1-12F/4B,,Crompton ,1,R1F9,,,56160011,QN1 Relay (12F-4B)
+24,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700011,R1F11-ALH023-UPFCOR,A0233200001,,Sub-Asset,ALH023-UPFCOR,,,4212030001,(BRS:943) QBCA1-2F(HD)4F/4B,,Crompton ,1,R1F11,,,56160071,QBCA1 Relay (2F(HD) 4F-4B)
+25,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700012,R1F12-ALH023-UPFCOR1,A0233200001,,Sub-Asset,ALH023-UPFCOR1,,,4212030001,(BRS:943) QBCA1-2F(HD)4F/4B,,Crompton ,1,R1F12,,,56160071,QBCA1 Relay (2F(HD) 4F-4B)
+26,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700013,R1G1-A2408HR,A0233200001,,Sub-Asset,A2408HR,,,4212040001,(BRS:930) QN1-12F/4B,,Crompton ,1,R1G1,,,56160011,QN1 Relay (12F-4B)
+27,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700014,R1G2-A2408HHR,A0233200001,,Sub-Asset,A2408HHR,,,4212020001,(BRS:930) QN1-8F/8B,,Crompton ,1,R1G2,,,56160028,QN1 Relay (8F-8B)
+28,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700015,R1G3-A2408DR,A0233200001,,Sub-Asset,A2408DR,,,,(BRS:930) QN1-12F/4B,,Crompton ,1,R1G3,,,56160011,QN1 Relay (12F-4B)
+29,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700016,R1G4-A2410HR,A0233200001,,Sub-Asset,A2410HR,,,,(BRS:930) QN1-12F/4B,,Crompton ,1,R1G4,,,56160011,QN1 Relay (12F-4B)
+30,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700017,R1G5-A2410HHR,A0233200001,,Sub-Asset,A2410HHR,,,,(BRS:960) QNN1-2*6F/2B,,Crompton ,1,R1G5,,,56160043,QNN1 Relay (2*6F-2B)
+31,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700018,R1G6-A2410DR,A0233200001,,Sub-Asset,A2410DR,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1G6,,,56160028,QN1 Relay (8F-8B)
+32,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700019,R1G7-A2412HR,A0233200001,,Sub-Asset,A2412HR,,,,(BRS:930) QN1-12F/4B,,Crompton ,1,R1G7,,,56160011,QN1 Relay (12F-4B)
+33,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700020,R1G8-A2412HHR,A0233200001,,Sub-Asset,A2412HHR,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1G8,,,56160028,QN1 Relay (8F-8B)
+34,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700021,R1G9-A2412DR,A0233200001,,Sub-Asset,A2412DR,,,,(BRS:930) QN1-12F/4B,,Crompton ,1,R1G9,,,56160011,QN1 Relay (12F-4B)
+35,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700022,R1G11-ALH023-DNFCOR,A0233200001,,Sub-Asset,ALH023-DNFCOR,,,,(BRS:943) QBCA1-2F(HD)4F/4B,,Crompton ,1,R1G11,,,56160071,QBCA1 Relay (2F(HD) 4F-4B)
+36,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700023,R1G12-ALH023-DNFCOR1,A0233200001,,Sub-Asset,ALH023-DNFCOR1,,,,(BRS:943) QBCA1-2F(HD)4F/4B,,Crompton ,1,R1G12,,,56160071,QBCA1 Relay (2F(HD) 4F-4B)
+37,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700024,R1H1-A2413DR1,A0233200001,,Sub-Asset,A2413DR1,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H1,,,56160028,QN1 Relay (8F-8B)
+38,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700025,R1H2-A2417DR1,A0233200001,,Sub-Asset,A2417DR1,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H2,,,56160028,QN1 Relay (8F-8B)
+39,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700026,R1H3-A2413DECPR,A0233200001,,Sub-Asset,A2413DECPR,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H3,,,56160028,QN1 Relay (8F-8B)
+40,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700027,R1H4-A2417DECPR,A0233200001,,Sub-Asset,A2417DECPR,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H4,,,56160028,QN1 Relay (8F-8B)
+41,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700028,"R1H5-A2415DECPR, A2410DECPR",A0233200001,,Sub-Asset,"A2415DECPR, A2410DECPR",,,,(BRS:960) QNN1-2*4F/4B,,Crompton ,1,R1H5,,,56160030,QNN1 Relay (2*4F-4B)
+42,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700029,R1H6-A2408DR1,A0233200001,,Sub-Asset,A2408DR1,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H6,,,56160028,QN1 Relay (8F-8B)
+43,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700030,R1H7-A2412DR1,A0233200001,,Sub-Asset,A2412DR1,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H7,,,56160028,QN1 Relay (8F-8B)
+44,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700031,R1H8-A2408DECPR,A0233200001,,Sub-Asset,A2408DECPR,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H8,,,56160028,QN1 Relay (8F-8B)
+45,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700032,R1H9-A2412DECPR,A0233200001,,Sub-Asset,A2412DECPR,,,,(BRS:930) QN1-8F/8B,,Crompton ,1,R1H9,,,56160028,QN1 Relay (8F-8B)
+46,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700033,R1J1-A2413RECR,A0233200001,,Sub-Asset,A2413RECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J1,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+47,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700034,R1J2-A2413HECR,A0233200001,,Sub-Asset,A2413HECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J2,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+48,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700035,R1J3-A2413HHECR,A0233200001,,Sub-Asset,A2413HHECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J3,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+49,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700036,R1J4-A2413DECR,A0233200001,,Sub-Asset,A2413DECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J4,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+50,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700037,R1J5-A2415RECR,A0233200001,,Sub-Asset,A2415RECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J5,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+51,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700038,R1J6-A2415HECR,A0233200001,,Sub-Asset,A2415HECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J6,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+52,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700039,R1J7-A2415HHECR,A0233200001,,Sub-Asset,A2415HHECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J7,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+53,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700040,R1J8-A2415DECR,A0233200001,,Sub-Asset,A2415DECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J8,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+54,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700041,R1J9-A2417RECR,A0233200001,,Sub-Asset,A2417RECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J9,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+55,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700042,R1J10-A2417HECR,A0233200001,,Sub-Asset,A2417HECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J10,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+56,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700043,R1J11-A2417HHECR,A0233200001,,Sub-Asset,A2417HHECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J11,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+57,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700044,R1J12-A2417DECR,A0233200001,,Sub-Asset,A2417DECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1J12,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+58,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700045,R1K1-A2408RECR,A0233200001,,Sub-Asset,A2408RECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K1,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+59,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700046,R1K2-A2408HECR,A0233200001,,Sub-Asset,A2408HECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K2,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+60,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700047,R1K3-A2408HHECR,A0233200001,,Sub-Asset,A2408HHECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K3,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+61,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700048,R1K4-A2408DECR,A0233200001,,Sub-Asset,A2408DECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K4,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+62,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700049,R1K5-A2410RECR,A0233200001,,Sub-Asset,A2410RECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K5,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+63,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700050,R1K6-A2410HECR,A0233200001,,Sub-Asset,A2410HECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K6,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+64,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700051,R1K7-A2410HHECR,A0233200001,,Sub-Asset,A2410HHECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K7,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+65,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700052,R1K8-A2410DECR,A0233200001,,Sub-Asset,A2410DECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K8,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+66,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700053,R1K9-A2412RECR,A0233200001,,Sub-Asset,A2412RECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K9,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+67,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700054,R1K10-A2412HECR,A0233200001,,Sub-Asset,A2412HECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K10,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+68,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700055,R1K11-A2412HHECR,A0233200001,,Sub-Asset,A2412HHECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K11,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+69,WDFC,Jaipur, ALH-23,SER,Relay,Relay,67-Relay,A0236700056,R1K12-A2412DECR,A0233200001,,Sub-Asset,A2412DECR,,,,(BRS:941A) QECX61-4F/4B,,Crompton ,1,R1K12,,,56160084,QECX-61 (AC lamp proving relay   relay) (4F-4B)
+76,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,IOM Rack,35-IOM Rack,A0233500058,Prewired IOM Rack 1(Type-2),,Prewired IOM Rack 1(Type-2),Asset,,,,,,,nVent,1,,,,56750271,IOM 19-inch rack (Pre-wired) Type-2
+82,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,IOM Sub-Rack,43-IOM Sub-Rack,A0234300060,IOM Subrack-1,A0233500058,,Sub-Asset,IOM Subrack-1,,,,,F63702,Hitachi,1,,,,56750284,IOM sub-rack
+83,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900061,FFC2-1,A0234300060,,Sub-Asset,,FFC2-1,,,FFC20(F),,Hitachi,1,,,,56750297,FFC2
+84,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900062,FFC2-2,A0234300060,,Sub-Asset,,FFC2-2,,,FFC20(F),,Hitachi,1,,,,56750297,FFC2
+85,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900063,POW3-1,A0234300060,,Sub-Asset,,POW3-1,,,APW070,,Hitachi,1,,,,56750306,POW3
+86,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900064,POW3-2,A0234300060,,Sub-Asset,,POW3-2,,,APW070,,Hitachi,1,,,,56750306,POW3
+87,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900065,FDI2-1,A0234300060,,Sub-Asset,,FDI2-1,,,ADI011(F),,Hitachi,1,,,,56750319,FDI2
+88,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900066,FDI2-2,A0234300060,,Sub-Asset,,FDI2-2,,,ADI011(F),,Hitachi,1,,,,56750319,FDI2
+89,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900067,FDI2-3,A0234300060,,Sub-Asset,,FDI2-3,,,ADI011(F),,Hitachi,1,,,,56750319,FDI2
+90,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900068,FDI2-4,A0234300060,,Sub-Asset,,FDI2-4,,,ADI011(F),,Hitachi,1,,,,56750319,FDI2
+91,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900069,FDO1-1,A0234300060,,Sub-Asset,,FDO1-1,,,ADO011(F),,Hitachi,1,,,,56750321,FD01
+92,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900070,FDO1-2,A0234300060,,Sub-Asset,,FDO1-2,,,ADO011(F),,Hitachi,1,,,,56750321,FD01
+93,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900071,FDO1-3,A0234300060,,Sub-Asset,,FDO1-3,,,ADO011(F),,Hitachi,1,,,,56750321,FD01
+94,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Electronic Card-IOM,39-Electronic Card-IOM,A0233900072,FDO1-4,A0234300060,,Sub-Asset,,FDO1-4,,,ADO011(F),,Hitachi,1,,,,56750321,FD01
+97,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Ethernet switch-IOM,45-Ethernet switch-IOM,A0234500073,Ethernet Switch-1(L2),A0233500058,,Sub-Asset,Ethernet Switch-1(L2),,,,(MOXA: IKS-G6524A),,Moxa,1,,,,56750018,L2 SW-VLC
+100,WDFC,Jaipur, ALH-23,SER,Electronic Interlocking,Ethernet switch-IOM,45-Ethernet switch-IOM,A0234500074,Ethernet Switch-2(L2),A0233500058,,Sub-Asset,Ethernet Switch-2(L2),,,,(MOXA: IKS-G6524A),,Moxa,1,,,,56750018,L2 SW-VLC
+103,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400075,BD14 Wheel Sensor,,BD14 Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+110,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400077,BD15 Wheel Sensor,,BD15 Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+117,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400079,BD16 Wheel Sensor,,BD16 Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+124,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400081,BD17 Wheel Sensor,,BD17 Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+131,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400083,BD18  Wheel Sensor,,BD18  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+138,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400085,BD19  Wheel Sensor,,BD19  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+145,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400087,SU04  Wheel Sensor,,SU04  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+152,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400089,SU05  Wheel Sensor,,SU05  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+159,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400091,SU06  Wheel Sensor,,SU06  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+166,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400093,SU07  Wheel Sensor,,SU07  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+173,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400095,BU08 Wheel Sensor,,BU08 Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+180,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400097,BU09  Wheel Sensor,,BU09  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+187,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400099,BU10  Wheel Sensor,,BU10  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+194,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400101,BU11  Wheel Sensor,,BU11  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+201,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400103,BU12  Wheel Sensor,,BU12  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+208,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400105,BU13  Wheel Sensor,,BU13  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+215,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400107,SD08  Wheel Sensor,,SD08  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+222,WDFC,Jaipur, ALH-23,Track-side,MSDAC,Wheel Sensor,24-Wheel Sensor,A0232400109,SD09  Wheel Sensor,,SD09  Wheel Sensor,Asset,,,,,5Metre/GS05 RSR 180/S-250,11749,Frauscher,1,,,,56210315,Wheel Sensor 5M
+229,WDFC,Jaipur, ALH-23,SER,MSDAC,MSDAC Rack,25-MSDAC Rack,A0232500111,Prewired Axle Counter Rack AXR-1,,Prewired Axle Counter Rack AXR-1,Asset,,,,,FAR-002,800001,Frauscher,1,,,,56210191,Prewired axle counter rack
+233,WDFC,Jaipur, ALH-23,SER,MSDAC,Board Rack,27-Board Rack,A0232700112,Board Rack-1,A0232500111,,Sub-Asset,Board Rack-1,,,,BGT07 84TE,IN_17390,Frauscher,1,,,,56210068,Board rack BGT 07 84TE
+234,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800113,PSC,A0232700112,,Sub-Asset,,PSC,,,PSC101-GS01,19949,Frauscher,1,,,,56210133,Power supply Board PSC101
+235,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800114,COM-FSE-1M,A0232700112,,Sub-Asset,,COM-FSE-1M,,,FSE101-GS02,22867,Frauscher,1,,,,56210146,Communication Board COM-FSE101
+236,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800115,AEB-BD14,A0232700112,,Sub-Asset,,AEB-BD14,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+237,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800116,AEB-BD15,A0232700112,,Sub-Asset,,AEB-BD15,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+238,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800117,AEB-BD16,A0232700112,,Sub-Asset,,AEB-BD16,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+239,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800118,AEB-BD17,A0232700112,,Sub-Asset,,AEB-BD17,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+240,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800119,AEB-BD18,A0232700112,,Sub-Asset,,AEB-BD18,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+241,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800120,AEB-BD19,A0232700112,,Sub-Asset,,AEB-BD19,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+242,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800121,PSC-R,A0232700112,,Sub-Asset,,PSC-R,,,PSC101-GS01,19949,Frauscher,1,,,,56210133,Power supply Board PSC101
+243,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800122,COM-FSE-1R,A0232700112,,Sub-Asset,,COM-FSE-1R,,,FSE101-GS02,22867,Frauscher,1,,,,56210146,Communication Board COM-FSE101
+244,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800123,AEB-SU04,A0232700112,,Sub-Asset,,AEB-SU04,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+245,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800124,AEB-SU05,A0232700112,,Sub-Asset,,AEB-SU05,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+246,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800125,AEB-SU06,A0232700112,,Sub-Asset,,AEB-SU06,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+247,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800126,AEB-SU07,A0232700112,,Sub-Asset,,AEB-SU07,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+248,WDFC,Jaipur, ALH-23,SER,MSDAC,Board Rack,27-Board Rack,A0232700127,Board Rack-2,A0232500111,,Sub-Asset,Board Rack-2,,,,BGT07 84TE,IN_17390,Frauscher,1,,,,56210068,Board rack BGT 07 84TE
+249,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800128,PSC ,A0232700127,,Sub-Asset,,PSC ,,,PSC101-GS01,19949,Frauscher,1,,,,56210133,Power supply Board PSC101
+250,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800129,COM-FSE-2M,A0232700127,,Sub-Asset,,COM-FSE-2M,,,FSE101-GS02,22867,Frauscher,1,,,,56210146,Communication Board COM-FSE101
+251,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800130,AEB-BU08,A0232700127,,Sub-Asset,,AEB-BU08,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+252,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800131,AEB-BU09,A0232700127,,Sub-Asset,,AEB-BU09,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+253,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800132,AEB-BU10,A0232700127,,Sub-Asset,,AEB-BU10,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+254,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800133,AEB-BU11,A0232700127,,Sub-Asset,,AEB-BU11,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+255,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800134,AEB-BU12,A0232700127,,Sub-Asset,,AEB-BU12,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+256,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800135,AEB-BU13,A0232700127,,Sub-Asset,,AEB-BU13,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+257,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800136,PSC-R,A0232700127,,Sub-Asset,,PSC-R,,,PSC101-GS01,19949,Frauscher,1,,,,56210133,Power supply Board PSC101
+258,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800137,COM-FSE-2R,A0232700127,,Sub-Asset,,COM-FSE-2R,,,FSE101-GS02,22867,Frauscher,1,,,,56210146,Communication Board COM-FSE101
+259,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800138,AEB-SD08,A0232700127,,Sub-Asset,,AEB-SD08,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+260,WDFC,Jaipur, ALH-23,SER,MSDAC,Electronic Card-MSDAC,28-Electronic Card-MSDAC,A0232800139,AEB-SD09,A0232700127,,Sub-Asset,,AEB-SD09,,,AEB101-GS04,24050,Frauscher,1,,,,56210031,Evaluation Board AEB
+261,WDFC,Jaipur, ALH-23,SER,MSDAC,Ethernet switch-MSDAC,26-Ethernet switch-MSDAC,A0232600140,Ethernet Switch-1 (L2),A0232500111,,Sub-Asset,Ethernet Switch-1 (L2),,,,GRS1042,,Hirschmann,1,,,,56210371,"Ethernet Switch (ALH), GRS1020, Hirschmann"
+264,WDFC,Jaipur, ALH-23,SER,MSDAC,Ethernet switch-MSDAC,26-Ethernet switch-MSDAC,A0232600141,Ethernet Switch-2 (L2),A0232500111,,Sub-Asset,Ethernet Switch-2 (L2),,,,GRS1042,,Hirschmann,1,,,,56210371,"Ethernet Switch (ALH), GRS1020, Hirschmann"
+267,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100142,A-2408,,A-2408,Asset,,,,,4 Aspect Signal,,,1,,,,56190013,"4 Aspect Signal Unit (LED Type, 110V AC, 125 mm dia)  RDSO
+Drg.No. SA 23001
+A/M (Adv) Alt.9& IRS
+:S23/88 & S26/64"
+268,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100143,Top Yellow,A0230100142,,Sub-Asset,Top Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+269,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100144,Green,A0230100142,,Sub-Asset,Green,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230061,Signal LED(Green)
+270,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100145,Bottom Yellow,A0230100142,,Sub-Asset,Bottom Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+271,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100146,Red,A0230100142,,Sub-Asset,Red,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230044,Signal LED(Red)
+279,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100147,A-2410,,A-2410,Asset,,,,,4 Aspect Signal,,,1,,,,56190013,"4 Aspect Signal Unit (LED Type, 110V AC, 125 mm dia)  RDSO
+Drg.No. SA 23001
+A/M (Adv) Alt.9& IRS
+:S23/88 & S26/64"
+280,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100148,Green,A0230100147,,Sub-Asset,Top Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+281,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100149,Bottom Yellow,A0230100147,,Sub-Asset,Green,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230061,Signal LED(Green)
+282,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100150,Red,A0230100147,,Sub-Asset,Bottom Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+283,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100151,Top Yellow,A0230100147,,Sub-Asset,Red,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230044,Signal LED(Red)
+291,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100152,A-2412,,A-2412,Asset,,,,,4 Aspect Signal,,,1,,,,56190013,"4 Aspect Signal Unit (LED Type, 110V AC, 125 mm dia)  RDSO
+Drg.No. SA 23001
+A/M (Adv) Alt.9& IRS
+:S23/88 & S26/64"
+292,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100153,Bottom Yellow,A0230100152,,Sub-Asset,Top Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+293,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100154,Red,A0230100152,,Sub-Asset,Green,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230061,Signal LED(Green)
+294,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100155,Top Yellow,A0230100152,,Sub-Asset,Bottom Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+295,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100156,Green,A0230100152,,Sub-Asset,Red,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230044,Signal LED(Red)
+303,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100157,A-2413,,A-2413,Asset,,,,,4 Aspect Signal,,,1,,,,56190013,"4 Aspect Signal Unit (LED Type, 110V AC, 125 mm dia)  RDSO
+Drg.No. SA 23001
+A/M (Adv) Alt.9& IRS
+:S23/88 & S26/64"
+304,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100158,Red,A0230100157,,Sub-Asset,Top Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+305,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100159,Top Yellow,A0230100157,,Sub-Asset,Green,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230061,Signal LED(Green)
+306,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100160,Green,A0230100157,,Sub-Asset,Bottom Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+307,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100161,Bottom Yellow,A0230100157,,Sub-Asset,Red,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230044,Signal LED(Red)
+315,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100162,A-2415,,A-2415,Asset,,,,,4 Aspect Signal,,,1,,,,56190013,"4 Aspect Signal Unit (LED Type, 110V AC, 125 mm dia)  RDSO
+Drg.No. SA 23001
+A/M (Adv) Alt.9& IRS
+:S23/88 & S26/64"
+316,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100163,Top Yellow,A0230100162,,Sub-Asset,Top Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+317,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100164,Green,A0230100162,,Sub-Asset,Green,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230061,Signal LED(Green)
+318,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100165,Bottom Yellow,A0230100162,,Sub-Asset,Bottom Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+319,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100166,Red,A0230100162,,Sub-Asset,Red,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230044,Signal LED(Red)
+327,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100167,A-2417,,A-2417,Asset,,,,,4 Aspect Signal,,,1,,,,56190013,"4 Aspect Signal Unit (LED Type, 110V AC, 125 mm dia)  RDSO
+Drg.No. SA 23001
+A/M (Adv) Alt.9& IRS
+:S23/88 & S26/64"
+328,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100168,Top Yellow,A0230100167,,Sub-Asset,Top Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+329,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100169,Green,A0230100167,,Sub-Asset,Green,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230061,Signal LED(Green)
+330,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100170,Bottom Yellow,A0230100167,,Sub-Asset,Bottom Yellow,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230028,LED SIGNAL COMPACT UNIT YELLOW
+331,WDFC,Jaipur, ALH-23,Track-side,Signal,Main Signal,01-Main Signal,A0230100171,Red,A0230100167,,Sub-Asset,Red,,,,RDSO/SPN/199/2010,,GAEC,1,,,,56230044,Signal LED(Red)
+440,WDFC,Jaipur, ALH-23,PSS,PSS,UPS,12-UPS,A0231200206,UPS-1,,UPS-1,Asset,,,,,I4ET 5KVA,,HHPE,1,,,,47220016,UPS 5 KVA I4ET
+477,WDFC,Jaipur, ALH-23,PSS,PSS,UPS,12-UPS,A0231200207,UPS-2,,UPS-2,Asset,,,,,I4ET 5KVA,,HHPE,1,,,,47220016,UPS 5 KVA I4ET
+514,WDFC,Jaipur, ALH-23,PSS,PSS,AUX,13-AUX,A0231300208,AUX-1,,AUX-1,Asset,,,,,I4ET 5KVA,,HHPE,1,,,,47220016,UPS 5 KVA I4ET
+524,WDFC,Jaipur, ALH-23,PSS,PSS,AUX,13-AUX,A0231300209,AUX-2,,AUX-2,Asset,,,,,I4ET 5KVA,,HHPE,1,,,,47220016,UPS 5 KVA I4ET
+534,WDFC,Jaipur, ALH-23,PSS,PSS,ACDB,16-ACDB,A0231600210,ACDB-1,,ACDB-1,Asset,,,,,,,HHPE,1,,,,47220660,"ACDB Rack, Hitachi"
+549,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800211,P5 Relay Ext UP_Side,A0231600210,,Sub-Asset,P5 Relay Ext UP_Side,,,,P5 Converter 24V/10A,PS2410V2, der,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+550,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800212,P6 Relay Ext UP_Side,A0231600210,,Sub-Asset,P6 Relay Ext UP_Side,,,,P6 Converter 24V/10A,PS2410V2,Connectwell,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+551,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800213,P7 Relay Ext DN_Side,A0231600210,,Sub-Asset,P7 Relay Ext DN_Side,,,,P7 Converter 24V/10A,PS2410V2,Connectwell,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+552,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800214,P8 Relay Ext DN_Side,A0231600210,,Sub-Asset,P8 Relay Ext DN_Side,,,,P8 Converter 24V/10A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+553,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800215,P19 TMS ,A0231600210,,Sub-Asset,P19 TMS ,,,,P19 Converter 24V/10A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+554,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800216,P20 TMS ,A0231600210,,Sub-Asset,P20 TMS ,,,,P20 Converter 24V/10A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+561,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700217,Transformer 500VA #1,A0231800216,,Sub-Asset,Transformer 500VA #1,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+562,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700218,Transformer 500VA #2,A0231800216,,Sub-Asset,Transformer 500VA #2,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+563,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700219,Transformer 500VA #3,A0231800216,,Sub-Asset,Transformer 500VA #3,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+564,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700220,Transformer 500VA #4,A0231800216,,Sub-Asset,Transformer 500VA #4,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+565,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700221,Transformer 500VA #5,A0231800216,,Sub-Asset,Transformer 500VA #5,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+566,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700222,Transformer 500VA #6,A0231800216,,Sub-Asset,Transformer 500VA #6,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+567,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700223,Transformer 500VA #7,A0231800216,,Sub-Asset,Transformer 500VA #7,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+568,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700224,Transformer 500VA #8,A0231800216,,Sub-Asset,Transformer 500VA #8,,,,IRS:72/88 (AMD.2),,GAEC,1,,,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+569,WDFC,Jaipur, ALH-23,PSS,PSS,ACDB,16-ACDB,A0231600225,ACDB-2,,ACDB-2,Asset,,,,,,,HHPE,1,,,,47220660,"ACDB Rack, Hitachi"
+579,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800226,P1 Relay INT1,A0231600225,,Sub-Asset,P1 Relay INT1,,,,P1 Converter 24V/10A,PS2415V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+580,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800227,P2 Relay INT1,A0231600225,,Sub-Asset,P2 Relay INT1,,,,P2 Converter 24V/10A,PS2415V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+581,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800228,P3 Relay INT2,A0231600225,,Sub-Asset,P3 Relay INT2,,,,P3 Converter 24V/10A,PS2415V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+582,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800229,P4 Relay INT2,A0231600225,,Sub-Asset,P4 Relay INT2,,,,P4 Converter 24V/10A,PS2415V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+583,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800230,P9 EI-Main,A0231600225,,Sub-Asset,P9 EI-Main,,,,P9 Converter 24V/5A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220106,"ACDC Converters 110-130VDC, 5A"
+584,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800231,P10 EI-Main,A0231600225,,Sub-Asset,P10 EI-Main,,,,P10 Converter 24V/5A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220106,"ACDC Converters 110-130VDC, 5A"
+585,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800232,P11 EI-Standby,A0231600225,,Sub-Asset,P11 EI-Standby,,,,P11 Converter 24V/5A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220106,"ACDC Converters 110-130VDC, 5A"
+586,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800233,P12 EI-Standby,A0231600225,,Sub-Asset,P12 EI-Standby,,,,P12 Converter 24V/5A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220106,"ACDC Converters 110-130VDC, 5A"
+587,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800234,P13 UP MSDAC,A0231600225,,Sub-Asset,P13 UP MSDAC,,,,P13 Converter 24V/10A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+588,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800235,P14 UP MSDAC,A0231600225,,Sub-Asset,P14 UP MSDAC,,,,P14 Converter 24V/10A,PS2410V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+589,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800236,P15 DN MSDAC,A0231600225,,Sub-Asset,P15 DN MSDAC,,,,P15 Converter 24V/10A,PS11005V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+590,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800237,P16 DN MSDAC,A0231600225,,Sub-Asset,P16 DN MSDAC,,,,P16 Converter 24V/10A,PS11005V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+591,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800238,P17 LEU,A0231600225,,Sub-Asset,P17 LEU,,,,P17 Converter 24V/10A,PS11005V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+592,WDFC,Jaipur, ALH-23,PSS,PSS,Converter,18-Converter,A0231800239,P18 LEU,A0231600225,,Sub-Asset,P18 LEU,,,,P18 Converter 24V/10A,PS11005V2,Gallant,1,,Updated Asset Name Description & Specification,,47220084,"ACDC Converters 24-32VDC, 10A"
+598,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700240,Transformer 500VA #9,A0231800239,,Sub-Asset,Transformer 500VA #9,,,,IRS:72/88 (AMD.2),,GAEC,1,,Changed from Sub asset to Sub asset1,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+599,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700241,Transformer 500VA #10,A0231800239,,Sub-Asset,Transformer 500VA #10,,,,IRS:72/88 (AMD.2),,GAEC,1,,Changed from Sub asset to Sub asset1,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+600,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700242,Transformer 500VA #11,A0231800239,,Sub-Asset,Transformer 500VA #11,,,,IRS:72/88 (AMD.2),,GAEC,1,,Changed from Sub asset to Sub asset1,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+601,WDFC,Jaipur, ALH-23,PSS,PSS,Transformer,17-Transformer,A0231700243,Transformer 500VA #12,A0231800239,,Sub-Asset,Transformer 500VA #12,,,,IRS:72/88 (AMD.2),,GAEC,1,,Changed from Sub asset to Sub asset1,,47220121,"SIGNAL TRANSFORMERS 500VA, 230V/110V"
+603,WDFC,Jaipur, ALH-23,PSS,PSS,Battery Bank,19-Battery Bank,A0231900244,Battery Bank-1,,Battery Bank-1,Asset,,,,,VRLA/120AH,,Amararaja,1,,,,45240027,"Battery Bank VRLA/120AH, Amararaja"
+659,WDFC,Jaipur, ALH-23,PSS,PSS,Battery Bank,19-Battery Bank,A0231900300,Battery Bank-2,,Battery Bank-2,Asset,,,,,VRLA/120AH,,Amararaja,1,,,,45240027,"Battery Bank VRLA/120AH, Amararaja"
